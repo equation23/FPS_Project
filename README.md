@@ -10,11 +10,7 @@
 -  [개인 포트폴리오 영상](https://www.youtube.com/watch?v=bpyLJ9WKLHo)
 
 
-## 세부 사항
-<details>
-<summary>접기/펼치기</summary>
 
----------
 
 # 목차
 1. 개발 내역
@@ -34,6 +30,4 @@
         
 2. 트러블슈팅
 
----------
 
-</details>
